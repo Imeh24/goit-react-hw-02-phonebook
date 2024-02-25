@@ -1,0 +1,11 @@
+.searchField {
+  padding: 5px;
+  border: 1px solid #ccc;
+  transition: border-color 0.3s;
+  border-radius: 4px;
+}
+
+.searchField:focus,
+.searchField:hover {
+  border-color: #007bff;
+}

@@ -1,0 +1,10 @@
+.contactListItem {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.deleteBtn {
+  padding: 2px;
+  margin: 15px;
+}

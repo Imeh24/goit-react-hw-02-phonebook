@@ -1,0 +1,25 @@
+.form {
+  border: 1px solid black;
+  width: 350px;
+}
+
+.name {
+  margin-left: 10px;
+}
+
+.number {
+  margin-left: 10px;
+}
+
+.addButton {
+  margin: 10px 0 5px 5px;
+  display: block;
+  border-radius: 5px;
+  border: none;
+}
+
+.nameInput,
+.numberInput {
+  padding: 4px;
+  margin-left: 5px;
+}
